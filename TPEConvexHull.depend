@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1562101888 source:c:\users\usuario\desktop\c++\tpeconvexhull\main.cpp
+	<iostream>
+	<cmath>
+	"Punto.h"
+	"Lista.h"
+
+1561532257 c:\users\usuario\desktop\c++\tpeconvexhull\include\punto.h
+
+1561536844 c:\users\usuario\desktop\c++\tpeconvexhull\include\lista.h
+	"Punto.h"
+
+1561855300 source:c:\users\usuario\desktop\c++\tpeconvexhull\src\lista.cpp
+	<stdio.h>
+	"Punto.h"
+	"Lista.h"
+
+1561536844 source:c:\users\usuario\desktop\c++\tpeconvexhull\src\punto.cpp
+	<stdio.h>
+	"Punto.h"
+	<math.h>
+
